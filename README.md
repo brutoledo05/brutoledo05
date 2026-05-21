@@ -1,6 +1,6 @@
 # Olá, eu sou o Bruno Toledo Bispo! 👋
 
-Sou estudante de **Ciências e Tecnologia** na **Universidade Federal do ABC (UFABC)**. Sou apaixonado por tecnologia, desenvolvimento de software e a cultura do código aberto. Atualmente, busco expandir meus conhecimentos teóricos e práticos para resolver problemas reais através da programação.
+Sou estudante de **Ciências e Tecnologia** na **Universidade Federal do ABC (UFABC)**, onde desenvolvo uma base sólida em pensamento analítico, lógica e resolução de problemas. Tenho grande interesse por tecnologia, principalmente em relação à software e códigos. Atualmente, busco expandir meus conhecimentos teóricos e práticos para resolver problemas reais através da programação.
 
 ---
 
